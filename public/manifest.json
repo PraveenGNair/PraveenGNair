@@ -1,0 +1,31 @@
+{
+    "name": "Praveen G Nair",
+    "short_name": "Praveen",
+    "lang": "en-US",
+    "icons": [
+        {
+            "src": "images/praveen.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/praveen.jpg",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "images/praveen.jpg",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "images/praveen.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait"
+}
