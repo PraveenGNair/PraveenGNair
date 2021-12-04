@@ -1,5 +1,6 @@
 ### Hi there 👋
-🔭 I am a Software Developer and a Technologist. I have got my [profile](https://praveeng-nair.web.app), a [blog](https://praveeng-nair.medium.com/), my code (you're already here!) and more. 
+🔭 I am a Software Developer and a Technologist. I have got my [profile](https://praveeng-nair.web.app), a [blog](https://praveeng-nair.medium.com/), my code (you're already here!) and more.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveengnair&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=praveengnair&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
